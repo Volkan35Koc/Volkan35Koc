@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahimvolkankoc35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahimvolkankoc35/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ibrahimvolkankoc35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahimvolkankoc35/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/brahimvolkanko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/brahimvolkanko" height="30" width="40" /></a>
 <a href="https://medium.com/@volkankoc35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@volkankoc35" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/volkankoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="volkankoc" height="30" width="40" /></a>
