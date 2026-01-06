@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Volkan </h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+<h3 align="center">A passionate Junior Data Analyst from Turkey</h3>
 
 
 
