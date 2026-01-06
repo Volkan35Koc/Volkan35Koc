@@ -3,7 +3,7 @@
 
 
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Junior Data Analyst**
 
 - 📫 How to reach me **volkankoc3535@outlook.com**
 
