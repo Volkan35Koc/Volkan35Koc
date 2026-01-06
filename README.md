@@ -1,5 +1,5 @@
-👋 Hi, I'm Volkan
-Junior Data Analyst | Python • SQL • Data Analysis
+<h1 👋 Hi, I'm Volkan
+Junior Data Analyst | Python • SQL • Data Analysis >h1
 
 I am a Management Information Systems graduate and an entry-level Junior Data Analyst focused on transforming raw data into actionable insights.
 
